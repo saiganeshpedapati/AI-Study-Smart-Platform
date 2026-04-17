@@ -3,7 +3,8 @@
 An AI-powered educational platform that helps students learn smarter with AI-generated quizzes, summaries, and a real-time AI tutor chatbot.
 
 🌐 **Live Demo:**
-https://quiz-bot-tutor--saiganesh1430.replit.app
+https://quiz-bot-tutor--fabganesh1430.replit.app
+
 
 ---
 
